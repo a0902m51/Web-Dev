@@ -1,0 +1,1 @@
+﻿Link : https://github.com/jupeter/clean-code-php#function-arguments-2-or-fewer-ideally
